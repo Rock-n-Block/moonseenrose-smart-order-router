@@ -399,7 +399,7 @@ export const WRAPPED_NATIVE_CURRENCY: { [chainId in ChainId]: Token } = {
   ),
   [ChainId.BSC_TESTNET]: new Token(
     97,
-    '0xCdfABb693a1Fe323f7E75CAB9E00368dFC271d19',
+    '0x9cd71a56c11A8d3130D1A837d1df4D631AB98A57',
     18,
     'WETH',
     'Wrapped ETH'
