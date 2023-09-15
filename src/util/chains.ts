@@ -401,8 +401,8 @@ export const WRAPPED_NATIVE_CURRENCY: { [chainId in ChainId]: Token } = {
     97,
     '0xCdfABb693a1Fe323f7E75CAB9E00368dFC271d19',
     18,
-    'WBNB',
-    'Wrapped BNB'
+    'WETH',
+    'Wrapped ETH'
   ),
   [ChainId.OPTIMISM]: new Token(
     ChainId.OPTIMISM,

@@ -354,7 +354,7 @@ exports.WRAPPED_NATIVE_CURRENCY = {
     [ChainId.GÖRLI]: new sdk_core_1.Token(5, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
     [ChainId.KOVAN]: new sdk_core_1.Token(42, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
     [ChainId.BSC]: new sdk_core_1.Token(56, '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
-    [ChainId.BSC_TESTNET]: new sdk_core_1.Token(97, '0xCdfABb693a1Fe323f7E75CAB9E00368dFC271d19', 18, 'WBNB', 'Wrapped BNB'),
+    [ChainId.BSC_TESTNET]: new sdk_core_1.Token(97, '0xCdfABb693a1Fe323f7E75CAB9E00368dFC271d19', 18, 'WETH', 'Wrapped ETH'),
     [ChainId.OPTIMISM]: new sdk_core_1.Token(ChainId.OPTIMISM, '0x4200000000000000000000000000000000000006', 18, 'WETH', 'Wrapped Ether'),
     [ChainId.OPTIMISM_GOERLI]: new sdk_core_1.Token(ChainId.OPTIMISM_GOERLI, '0x4200000000000000000000000000000000000006', 18, 'WETH', 'Wrapped Ether'),
     [ChainId.OPTIMISTIC_KOVAN]: new sdk_core_1.Token(ChainId.OPTIMISTIC_KOVAN, '0x4200000000000000000000000000000000000006', 18, 'WETH', 'Wrapped Ether'),
