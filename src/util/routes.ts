@@ -4,8 +4,8 @@ import { Pair } from '@uniswap/v2-sdk';
 import { Pool } from '@uniswap/v3-sdk';
 import _ from 'lodash';
 
-import { RouteWithValidQuote } from '../routers/alpha-router';
-import { MixedRoute, V2Route, V3Route } from '../routers/router';
+import { MixedRoute, RouteWithValidQuote, V2Route, V3Route } from '../routers';
+
 import { V3_CORE_FACTORY_ADDRESSES } from './addresses';
 
 import { CurrencyAmount } from '.';
